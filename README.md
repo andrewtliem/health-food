@@ -14,10 +14,9 @@
 
 ---
 
-## 🌐 Live Production Links
+## 🌐 Live Production Link
 
-* **Production Storefront (Pages)**: [https://eden-healthy-market.pages.dev/](https://eden-healthy-market.pages.dev/)
-* **Edge API Base (Workers)**: [https://eden-healthy-market.pages.dev/api/categories](https://eden-healthy-market.pages.dev/api/categories)
+* **Production Storefront**: [https://healthy-food.my.id](https://healthy-food.my.id/)
 * **GitHub Repository**: [https://github.com/andrewtliem/health-food](https://github.com/andrewtliem/health-food)
 
 ---

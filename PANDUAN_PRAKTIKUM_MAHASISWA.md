@@ -499,7 +499,7 @@ git push origin main
 ```
 
 Situs Anda langsung online di alamat:  
-👉 `https://eden-healthy-market.pages.dev/`
+👉 `https://healthy-food.my.id/`
 
 ---
 
