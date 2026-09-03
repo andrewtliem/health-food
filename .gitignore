@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build Outputs
+dist
+dist-ssr
+*.local
+
+# Cloudflare & Wrangler Local State
+.wrangler
+.dev.vars
+.dev.vars.*
+*.sqlite
+*.sqlite3
+
+# Environment Variables & Secrets (CRITICAL: NEVER COMMIT SECRETS)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+*.crt
+secrets.json
+service-account*.json
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# Microsoft Office Temp Lock Files
+~$*.docx
+~$*.doc
+~$*.xlsx

@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "eden-healthy-market",
+  "compatibility_date": "2024-09-23",
+  "pages_build_output_dir": "dist",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "eden-healthy-db",
+      "database_id": "b4acc9d9-ce54-458b-a074-92ef9557f9d5"
+    }
+  ],
+  "ai": {
+    "binding": "AI"
+  }
+}
